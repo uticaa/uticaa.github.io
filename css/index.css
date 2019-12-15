@@ -5,10 +5,10 @@ html,body{
 }
 
 div{
-    height: 140%;
     margin: 0;
     padding: 0;
-    background-image: url('1.png');
-    background-size:100% auto;
-    background-repeat: no-repeat;
+}
+
+div>img{
+    width: 100vw;
 }
