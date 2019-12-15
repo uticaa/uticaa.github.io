@@ -1,0 +1,14 @@
+html,body{
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
+
+div{
+    height: 115%;
+    margin: 0;
+    padding: 0;
+    background-image: url('1.png');
+    background-size:100% auto;
+    background-repeat: no-repeat;
+}
